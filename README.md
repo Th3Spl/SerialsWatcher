@@ -9,7 +9,7 @@ Serials Checker in C# With a Cool GUI &amp; Features
 - [X] Baseboard Serial Number
 - [X] MAC Address
 </br>
-### GUI Example:
+## GUI Example:
 ![Life Style](https://i.imgur.com/Yxl1LoT.png)
 </br>
 ### Featues:
