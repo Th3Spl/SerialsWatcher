@@ -107,7 +107,7 @@ namespace SerialsWatcher
             txbBIOSUUID.Text = CmdExceuter("wmic csproduct get uuid").Substring(39).Trim();
 
             // CPU Serial Number
-            txbCPUSerialNumber.Text = CmdExceuter("wmic cpu get serialnumber").Substring(18).Trim();
+            txbCPUSerialNumber.Text = CmdExceuter("wmic cpu get serialnumber").Substring(17).Trim();
 
             // Processor Id
             txbProcessorId.Text = CmdExceuter("wmic cpu get processorid").Substring(19).Trim();
