@@ -8,11 +8,11 @@ Serials Checker in C# With a Cool GUI &amp; Features
 - [X] Processor Id
 - [X] Baseboard Serial Number
 - [X] MAC Address
-## GUI Example:
+### GUI Example:
 ![Life Style](https://i.imgur.com/Yxl1LoT.png)
 </br>
 
-## Features:
+### Features:
 - [x] Save Result to file
 </br>
 
