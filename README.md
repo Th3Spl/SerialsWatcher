@@ -10,7 +10,7 @@ Serials Checker in C# With a Cool GUI &amp; Features
 - [X] MAC Address
 </br>
 ### GUI Example:
-![Life Style]([https://i.imgur.com/2Rn7HYe.png](https://i.imgur.com/Yxl1LoT.png))
+![Life Style](https://i.imgur.com/Yxl1LoT.png)
 </br>
 ### Features:
 - [x] Save Result to file
