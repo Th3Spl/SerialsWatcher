@@ -12,7 +12,7 @@ Serials Checker in C# With a Cool GUI &amp; Features
 ## GUI Example:
 ![Life Style](https://i.imgur.com/Yxl1LoT.png)
 </br>
-### Featues:
+## Features:
 - [x] Save Result to file
 </br>
 ### I Use Guna for the GUI Items
