@@ -14,7 +14,6 @@ Serials Checker in C# With a Cool GUI &amp; Features
 
 ### Features:
 - [x] Save Result to file
-</br>
 
 ### I Use Guna for the GUI Items
 [`Guna Framework's Link`](https://gunaui.com/)
